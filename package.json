@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-code-regular",
+  "description": "Source Code Regular",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
